@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -37,9 +37,9 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: edwardkchoi
+# github: mygithub
+email: edwardchoi330@gmail.com
 
 authors:
   johndoe:
@@ -55,7 +55,7 @@ authors:
 width: large
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
