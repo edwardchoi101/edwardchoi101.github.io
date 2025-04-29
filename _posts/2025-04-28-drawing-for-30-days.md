@@ -34,10 +34,3 @@ We then went into a pretest of sorts to warm up our artistic skills by drawing a
   <img src="../assets/images/30-days-drawing-pretest.JPG" width="48%" />
   <img src="../assets/images/30-days-drawing-lesson-1.jpg" width="50%" /> 
 </p>
-
-![Pretest](../assets/images/30-days-drawing-pretest.JPG) ![Lesson 1](../assets/images/30-days-drawing-lesson-1.jpg)
-
-
-Pretest             |  Lesson 1
-:-------------------------:|:-------------------------:
-![](../assets/images/30-days-drawing-pretest.JPG)  |  ![](../assets/images/30-days-drawing-lesson-1.jpg)
