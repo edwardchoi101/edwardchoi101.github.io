@@ -29,5 +29,15 @@ Lesson 1 started off with a bang! Mark talked about the 9 elements of drawing wh
 
 We then went into a pretest of sorts to warm up our artistic skills by drawing a house, airplabne, and bagel off the top of our heads. We then proceeded to learn how to draw with shadows and shading. This involved starting out with drawing a circle and imagining a light source beaming down on the object at an angle. We then essentially wanted to cast a shadow on the object by drawing a "cast shadow" opposite of the light source to provide more depth to the object. We also employed a technique scribble shading to scribble parts of the object further away from the light source. The intuition is that parts of the object that are further away from the light source are darker while parts that are closer are closer to the light source will appear brighter. We also smudged the shading a little bit to provide some smoothness to the depth. Overall, a very pleasant beginning lesson to shading and drawing!
 
-![Pretest](../assets/images/30-days-drawing-pretest.JPG)
-![Lesson 1](../assets/images/30-days-drawing-lesson-1.jpg)
+
+<p float="left">
+  <img src="../assets/images/30-days-drawing-pretest.JPG" width="48%" />
+  <img src="../assets/images/30-days-drawing-lesson-1.jpg" width="50%" /> 
+</p>
+
+![Pretest](../assets/images/30-days-drawing-pretest.JPG) ![Lesson 1](../assets/images/30-days-drawing-lesson-1.jpg)
+
+
+Pretest             |  Lesson 1
+:-------------------------:|:-------------------------:
+![](../assets/images/30-days-drawing-pretest.JPG)  |  ![](../assets/images/30-days-drawing-lesson-1.jpg)
