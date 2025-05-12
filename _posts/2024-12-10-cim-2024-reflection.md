@@ -32,8 +32,8 @@ The 1st half of the course was quite hilly with a steady flat course the 2nd hal
 5. Were there any factors that were out of your control that impacted your results?
 Not in particular
 
-Were you able to handle uncontrollable or unexpected obstacles?
-6. Other than cramping I think I handled things pretyy well
+6. Were you able to handle uncontrollable or unexpected obstacles?
+Other than cramping I think I handled things pretyy well
 
 7. Were you able to stabilize emotions? 
 Yes, I was freaking out a little bit when I started cramping around mile 20, but was just determined to keep pushing on and tried not to walk.
